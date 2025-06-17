@@ -35,6 +35,12 @@ const tagInfo = (tag: Tag) => {
       return ['bg-fuchsia-400', '🤖 Robotics']
     case Tag.APPhysics1:
       return ['bg-teal-400', '⚙️  AP Physics 1']
+    case Tag.IntroToPhysics:
+      return ['bg-teal-400', '⚙️  Intro to Physics']
+    case Tag.IntroToAlgebra:
+      return ['bg-teal-400', '✏️  Intro to Algebra']
+    case Tag.Economics:
+      return ['bg-indigo-500', '💸  Economics']
   }
 }
 
