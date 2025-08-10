@@ -6,7 +6,7 @@ const EricLanCard = () => (
     name="Eric"
     subtitle="Co-President, Instructor"
     avatar={ericLan}
-    tags={[Tag.CurrentInstructor, Tag.APCSA]}
+    tags={[Tag.RetiredInstructor, Tag.APCSA]}
   >
     Eric is a junior at Irvington High School. He is interested in scripting, modeling, and graphic design.
     In his free time, Eric enjoys hiking, gaming, photography, and pondering life&apos;s big questions.
