@@ -5,6 +5,7 @@ import EricLanCard from './EricLan'
 import KartikBaluCard from './KartikBalu'
 import ChrisWangCard from './ChrisWang'
 import JohnnyWangCard from './JohnnyWang'
+import VictorJiangCard from './VictorJiang'
 import MichaelLanCard from './MichaelLan'
 import EganWangCard from './EganWang'
 import BenManCard from './BenMan'
@@ -39,6 +40,7 @@ const About = () => {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-4 mb-10 mt-3">
           <JohnnyWangCard />
           <KartikBaluCard />
+          <VictorJiangCard />
           <ChrisWangCard />
           <EricLanCard />
           <MichaelLanCard />
