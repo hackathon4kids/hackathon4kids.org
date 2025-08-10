@@ -6,7 +6,7 @@ const MichaelLanCard = () => (
     name="Michael"
     subtitle="Advisor"
     avatar={michaelLan}
-    tags={[Tag.CurrentInstructor, Tag.GitGitHub, Tag.APCSA]}
+    tags={[Tag.RetiredInstructor, Tag.GitGitHub, Tag.APCSA]}
   >
     Michael is a second-year at UCLA majoring in computer science and minoring in philosophy. His research interests include functional programming, programming language design, and compilers.
     He also love software engineering and has 2+ years of experience in full-stack software development and DevOps.
